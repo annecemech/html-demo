@@ -49,10 +49,6 @@
   align-items: center;
   gap: 10px;
 }
-.card-footer img {
-  border-radius: 50%;
-  width: 30px;
-}
 .card-footer a {
   color: #4B94BD;
 }
